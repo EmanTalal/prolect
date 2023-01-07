@@ -1,0 +1,1 @@
+<?php each 'Hi Frist my page . '; ?>
